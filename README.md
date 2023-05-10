@@ -6,7 +6,7 @@ This project will allow you to play the Tic Tac Toe game. This was the first pro
 In this project, I'm hoping to improve the original program and create a bot that plays the game using a reinforcement learning algorithm. 
 
 ## Setup
-This project was developed on the Window's 10 operating system. 
+This project was developed on the Window's 10 operating system. First ensure that the dependencies for the project are installed by following the tutorials in the links under the 'Dependencies' section. Then clone the repo using either HTTPS or SSH. For more information on how to clone with HTTPS, please see the section 'Cloning This Repo with HTTPS'. For more information on cloning with SSH, please see the 'Cloning This Repo with SSH' section.
 
 ### Dependencies
 * Windows 10 or higher
