@@ -45,8 +45,19 @@ After the repo has been cloned on your device, move into the Bulk-Protein-Modeli
 cd Tic-Tac-Toe
 ```
 
-
 ## Usage
+
+### Compile the Program
+After you have this repo cloned, you must next compile the program. In order to do this, run the following command on the comand line:
+```
+g++ tic-tac-toe.cpp -o run_program.exe
+```
+
+### Run the program
+After you have compiled the program, you can run it using the following command:
+```
+run_program.exe
+```
 
 ## Credits
 Dennis Kovarik
