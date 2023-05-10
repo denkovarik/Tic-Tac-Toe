@@ -9,9 +9,9 @@ In this project, I'm hoping to improve the original program and create a bot tha
 This project was developed on the Window's 10 operating system. 
 
 ### Dependencies
-* Windows 10
-* MinGW GCC/G++ Compiler
-* Git
+* Windows 10 or higher
+* [MinGW GCC/G++ Compiler](https://semicolon.dev/windows/how-to-install-mingw-gcc-g-compiler-windows-10-11-2023)
+* [Git](https://gitforwindows.org/)
 
 ## Usage
 
